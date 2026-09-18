@@ -78,8 +78,7 @@ CLV score
 
 Model performance:
 
-ROC-AUC: 1.00(this can be explained because of relatively sample size chosen for this project, ideal score lies around 0.7 to 0.8 when millions of customers are taken into account)
-
+ROC-AUC: 0.76  
 
 5️-Predictive Risk & Customer Prioritization
 
